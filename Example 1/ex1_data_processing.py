@@ -10,7 +10,7 @@ from pathlib import Path
 
 # ---- config: edit these -----------------------------------------------------
 HERE     = Path(__file__).resolve().parent      # paths are relative to this file, not the notebook's cwd
-PQ_DIR   = HERE / "../data/TEP"
+PQ_DIR   = HERE / "../data/Example 1 - TEP"
 CACHE_DIR = HERE / "../cache"
 FILES = {
     ("train", "free"):   "FaultFree_Training.csv",

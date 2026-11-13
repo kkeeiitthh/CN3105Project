@@ -1,5 +1,5 @@
-/data/TEP/FaultFree_Testing.parquet
-/data/TEP/FaultFree_Training.parquet
-/data/TEP/Faulty_Testing.parquet
-/data/TEP/Faulty_Training.parquet
+/data/Example 1 - TEP/FaultFree_Testing.parquet
+/data/Example 1 - TEP/FaultFree_Training.parquet
+/data/Example 1 - TEP/Faulty_Testing.parquet
+/data/Example 1 - TEP/Faulty_Training.parquet
 /Claude.md

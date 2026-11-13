@@ -2,7 +2,6 @@ numpy
 scikit-learn
 matplotlib
 pandas
-pysr
 torch
 torch-geometric
 pyarrow
